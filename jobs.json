@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "company": "Google",
+        "role": "Software Engineer",
+        "status": "Interviewing",
+        "date_applied": "2025-12-05",
+        "link": "https://careers.google.com"
+    },
+    {
+        "id": 2,
+        "company": "Microsoft",
+        "role": "Backend Developer",
+        "status": "Applied",
+        "date_applied": "2025-12-05",
+        "link": ""
+    },
+    {
+        "id": 3,
+        "company": "Fidelity",
+        "role": "FCA",
+        "status": "Interviewing",
+        "date_applied": "2025-12-05",
+        "link": ""
+    }
+]
