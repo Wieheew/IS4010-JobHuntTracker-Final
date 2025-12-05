@@ -202,7 +202,7 @@ All job data is stored in `jobs.json` in the following format:
 
 ## 👨‍💻 Author
 
-IS4010 Student Project - University of Cincinnati
+Ethan Wiehe, student University of Cincinnati, IS4010
 
 ## 📄 License
 
